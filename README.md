@@ -1,4 +1,6 @@
-# FOSS4GNA-2025-workshop
+# GRASS Addon Development with Python
+
+## FOSS4GNA-2025-workshop
 
 Workshop Participant Level: Advanced
 
